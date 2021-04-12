@@ -13,12 +13,14 @@
   "author": "Ajain Vivek <ajainvivek07@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "lodash": "^4.17.21",
     "prop-types": "^15.7.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-hot-loader": "^4.13.0",
     "simple-peer": "^9.10.0",
-    "tailwindcss": "^2.1.1"
+    "tailwindcss": "^2.1.1",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "@neutrinojs/airbnb": "^9.5.0",
