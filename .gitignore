@@ -117,3 +117,5 @@ dist
 
 # Neutrino build directory
 build
+# Local Netlify folder
+.netlify
